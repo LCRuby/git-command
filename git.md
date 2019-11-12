@@ -46,11 +46,11 @@
 
 ‘git commit –m “第三版” 
 
-![img](file:///C:\Users\Steven\AppData\Local\Temp\msohtmlclip1\01\clip_image002.jpg)
+![img](file:///C:\Users\Steven\Desktop\学习手册\git\image\clip_image002.jpg)
 
 Status:如果提交后又修改代码,则会出现红色的modified的字样,没修改即是:nothing to commit 
 
-![img](file:///C:\Users\Steven\AppData\Local\Temp\msohtmlclip1\01\clip_image004.jpg)
+![img](file:///C:\Users\Steven\Desktop\学习手册\git\image\clip_image004.jpg)
 
 Status:表明放到了门口,并没有提交(commit)
 
@@ -88,7 +88,7 @@ Status:表明放到了门口,并没有提交(commit)
 
 ‘git reset - -hard ca3cc90
 
-![img](file:///C:\Users\Steven\AppData\Local\Temp\msohtmlclip1\01\clip_image005.png)
+![img](file:///C:\Users\Steven\Desktop\学习手册\git\image\clip_image005.png)
 
 ca3cc90(每次提交的版本号唯一标志)
 
@@ -134,7 +134,7 @@ Github仓库地址:https://github.com/LCRuby/BlockChain.git
 
  
 
-![img](file:///C:\Users\Steven\AppData\Local\Temp\msohtmlclip1\01\clip_image006.png)
+![img](file:///C:\Users\Steven\Desktop\学习手册\git\image\clip_image006.png)
 
 13.从服务器拿数据
 
@@ -172,13 +172,13 @@ Git clone <https://github.com/LCRuby/BlockChain.git> 即可
 
  
 
-![img](file:///C:\Users\Steven\AppData\Local\Temp\msohtmlclip1\01\clip_image007.png)
+![img](file:///C:\Users\Steven\Desktop\学习手册\git\image\clip_image007.png)
 
 把长串的链接，，重命名为oriagin
 
  
 
-![img](file:///C:\Users\Steven\AppData\Local\Temp\msohtmlclip1\01\clip_image008.png)
+![img](file:///C:\Users\Steven\Desktop\学习手册\git\image\clip_image008.png)
 
  
 
@@ -194,20 +194,20 @@ Git clone <https://github.com/LCRuby/BlockChain.git> 即可
 
  
 
-![img](file:///C:\Users\Steven\AppData\Local\Temp\msohtmlclip1\01\clip_image010.jpg)![img](file:///C:\Users\Steven\AppData\Local\Temp\msohtmlclip1\01\clip_image012.jpg)
+![img](file:///C:\Users\Steven\Desktop\学习手册\git\image\clip_image010.jpg)![img](file:///C:\Users\Steven\Desktop\学习手册\git\image\clip_image012.jpg)
 
-![img](file:///C:\Users\Steven\AppData\Local\Temp\msohtmlclip1\01\clip_image013.png)
+![img](file:///C:\Users\Steven\Desktop\学习手册\git\image\clip_image013.png)
 
-![img](file:///C:\Users\Steven\AppData\Local\Temp\msohtmlclip1\01\clip_image015.jpg)
+![img](file:///C:\Users\Steven\Desktop\学习手册\git\image\clip_image015.jpg)
 
-Git log 只会显示Head标识以及以前的修改信息
+‘git log ''只会显示Head标识以及以前的修改信息
 
- ![img](file:///C:\Users\Steven\AppData\Local\Temp\msohtmlclip1\01\clip_image017.jpg)
+ ![img](file:///C:\Users\Steven\Desktop\学习手册\git\image\clip_image017.jpg)
 
-![img](file:///C:\Users\Steven\AppData\Local\Temp\msohtmlclip1\01\clip_image019.jpg) ![img](file:///C:\Users\Steven\AppData\Local\Temp\msohtmlclip1\01\clip_image021.jpg)
+![img](file:///C:\Users\Steven\Desktop\学习手册\git\image\clip_image019.jpg) ![img](file:///C:\Users\Steven\Desktop\学习手册\git\image\clip_image021.jpg)
 
-![img](file:///C:\Users\Steven\AppData\Local\Temp\msohtmlclip1\01\clip_image023.jpg) ![img](file:///C:\Users\Steven\AppData\Local\Temp\msohtmlclip1\01\clip_image025.jpg)![img](file:///C:\Users\Steven\AppData\Local\Temp\msohtmlclip1\01\clip_image027.jpg)
+![img](file:///C:\Users\Steven\Desktop\学习手册\git\image\clip_image023.jpg) ![img](file:///C:\Users\Steven\Desktop\学习手册\git\image\clip_image025.jpg)![img](file:///C:\Users\Steven\Desktop\学习手册\git\image\clip_image027.jpg)
 
-![img](file:///C:\Users\Steven\AppData\Local\Temp\msohtmlclip1\01\clip_image029.jpg)
+![img](file:///C:\Users\Steven\Desktop\学习手册\git\image\clip_image029.jpg)
 
-![img](file:///C:\Users\Steven\AppData\Local\Temp\msohtmlclip1\01\clip_image031.jpg)![img](file:///C:\Users\Steven\AppData\Local\Temp\msohtmlclip1\01\clip_image033.jpg)
+![img](file:///C:\Users\Steven\Desktop\学习手册\git\image\clip_image031.jpg)![img](file:///C:\Users\Steven\Desktop\学习手册\git\image\clip_image033.jpg)
